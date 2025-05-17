@@ -4,6 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.geom.RoundRectangle2D;
 import java.awt.geom.Rectangle2D;
+import java.awt.RenderingHints;
 
 public class Calculator extends JFrame {
     private JTextField display;
