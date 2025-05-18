@@ -16,9 +16,13 @@ A Java Swing calculator with standard arithmetic operations and clean interface.
 
 - JDK 8+
 
-## Execution
+## How to Run
 
 ```bash
 javac Calculator.java
 java Calculator
 ```
+
+## Example Output
+
+![Output Screenshot](images/output.png)
